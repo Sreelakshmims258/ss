@@ -1,0 +1,127 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background: #F6F7F9;
+    width: 100%;
+    height: 100%;
+}
+.images{
+    display: inline-block;
+    vertical-align: middle;
+    margin: 0 20px 0 0;
+    width: 122px;
+    margin-left: 40px;
+    margin-top: 37px;
+}
+.header{
+    width: 100%;
+    height: 100px;
+    background: white;
+}
+
+.header ul{
+    display: inline-flex;
+    list-style: none;
+
+
+}
+.heloo{
+    margin-left: 17px;
+    margin-top: 40px;
+    font: inherit;
+    font-size: 16px;
+}
+
+.lang{
+    margin-left: 400px;
+    margin-top: 40px;
+    border: none;
+}
+.heloo-1{
+    margin-top: 40px;
+    margin-left: 17px;
+   border-radius: 500px;
+   padding: 10px 30px;
+   background:#F6F7F9;
+   border: none;
+
+}
+.heloo-12{
+    margin-top: 40px;
+    margin-left: 17px;
+   border-radius: 500px ;
+   padding: 10px 30px;
+   background: #F6F7F9;
+ border-color: #4CB963;
+ outline: #4CB963;
+ 
+
+}
+.heloo-12:hover{
+    background:#66717f;;
+    color: #fff;
+}
+.heloo-1:hover{
+    background:#66717f;;
+    color: #fff;
+}
+
+.sent-1{
+    font-size: 46px;
+    font-weight: 800;
+    margin-bottom: 25px;
+    display: inline-block;
+    max-width: 900px;
+    line-height: 1.3;
+    color: #1b2b4b;
+    margin-left: 300px;
+    margin-top: 100px;
+    text-align: center;
+    font:bolder;
+}
+.sent-2{
+    font-size: 20px;
+    font-weight: 300;
+    color:  #1b2b4b;
+    text-align: center;
+}
+.but-1{
+    background:  #4CB963;
+    margin: 0px 10px 15px 10px;
+    height:55px;
+    width: 250px;
+    border-radius: 90px;
+    margin-left: 400px;
+    margin-top: 40px;
+    border: none;
+    color: #fff;
+    font-size: 18px;
+}
+.but-2{
+    background:  #D7263D;
+    margin: 0px 10px 15px 10px;
+    height:55px;
+    width: 250px;
+    border-radius: 90px;
+    border: none;
+    color: #fff;
+    font-size: 18px;
+    }
+.sent-3{
+    color: #66717f;
+    text-align: center;
+    cursor: pointer;
+    text-decoration: none;
+    margin-left: 610px;
+    font-size: 14px;
+    margin-top: 10px;
+}
+.picture{
+    margin-left: 150px;
+    margin-top: 20px;
+}
+.sent-3:hover{
+    color:#1877f2;
+}
